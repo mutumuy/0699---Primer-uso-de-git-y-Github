@@ -3,5 +3,6 @@ public class Prueba{
 		System.out.println("Oscar Garcia Abad");
 		System.out.println("Bembibre");
 		System.out.println("León");
+		System.out.println("1996");
 	}
 }
